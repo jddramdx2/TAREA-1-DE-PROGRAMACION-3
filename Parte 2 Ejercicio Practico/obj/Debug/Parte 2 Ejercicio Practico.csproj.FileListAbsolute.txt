@@ -1,0 +1,7 @@
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\bin\Debug\Parte 2 Ejercicio Practico.exe.config
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\bin\Debug\Parte 2 Ejercicio Practico.exe
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\bin\Debug\Parte 2 Ejercicio Practico.pdb
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\obj\Debug\Parte 2 Ejercicio Practico.csproj.AssemblyReference.cache
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\obj\Debug\Parte 2 Ejercicio Practico.csproj.CoreCompileInputs.cache
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\obj\Debug\Parte 2 Ejercicio Practico.exe
+C:\Users\Specialist\source\repos\Parte 2 Ejercicio Practico\Parte 2 Ejercicio Practico\obj\Debug\Parte 2 Ejercicio Practico.pdb
